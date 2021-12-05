@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hey! Welcome to my blog. My name is Isaac, I am an IT professional with a passion of cybersecurity and education
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am using this blog as a place to host writeups and tutorials about all the personal projects and cyber CTFs I participate in. Hopefully you can learn something!
