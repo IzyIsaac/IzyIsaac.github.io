@@ -1,0 +1,10 @@
+### Hackthebox Cyber Santa is Coming to Town: Blind XSS
+
+Quick writeup on the "Toy Workshop" room from the Cyber Santa is Coming to Town CTF on hackthebox.com. In order to play with this room after the CTF is over, you will have to pay for a premium sybscription
+
+This room is a great introduction to XSS(cross-site scripting) and how to exploit it. If you aren't sure what XSS is or how it works, [check out this article from OWASP](https://owasp.org/www-community/attacks/xss/)
+**TL;DR**
+XSS is a vulnerability where an attacker is able to inject malicious code into a site that would otherwise be trusted. This usually comes in the form of untrusted user input being displayed to other users on the site without proper validation, allowing an attacker to run arbitrary code in another users browser.
+
+## Exploration
+Started up my docker container from the hackthebox website
