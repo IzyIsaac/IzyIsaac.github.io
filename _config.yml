@@ -7,7 +7,7 @@ description: "lil collection of my CTF/security writeups and tutorials" # This w
 email: "isaac.mauro@gmail.com"
 #twitter_username: "twitteruser"
 github_username: "izyisaac"
-linkedin_username: "isaac-mauro-9852996a"
+linkedin_username: "isaac-mauro"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -19,8 +19,6 @@ linkedin_username: "isaac-mauro-9852996a"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
-
-rss: rss
 
 kramdown:
   syntax_highlighter_opts:
